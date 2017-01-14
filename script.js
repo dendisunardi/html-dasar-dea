@@ -1,0 +1,3 @@
+function munculinAlert(){
+	alert ("sukses");
+}
