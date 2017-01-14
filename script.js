@@ -1,3 +1,3 @@
 function munculinAlert(){
-	alert ("sukses");
+	alert ("selamat datang dea");
 }
